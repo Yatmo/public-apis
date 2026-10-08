@@ -1261,6 +1261,7 @@
 | [ViaCep](https://viacep.com.br) | Brazil RESTful zip codes API | No | Unknown |
 | [What3Words](https://what3words.com) | Three words as rememberable and unique coordinates worldwide | `apiKey` | Unknown |
 | [Yandex.Maps Geocoder](https://yandex.com/dev/maps/geocoder) | Use geocoding to get an object's coordinates from its address | `apiKey` | Unknown |
+| [Yatmo](https://yatmo.com) | Neighbourhood data for any address in 25 countries: nearby places with travel times, scores, isochrones, routes, geocoding | `apiKey` | Yes |
 | [ZipCodeAPI](https://www.zipcodeapi.com) | US zip code distance, radius and location API | `apiKey` | Unknown |
 | [Zipcodestack](https://zipcodestack.com/) | Zip Code API - Free Postal Code Validation | `apiKey` | Unknown |
 | [Zippopotam.us](https://www.zippopotam.us) | Get information about place such as country, city, state, etc | No | Unknown |
